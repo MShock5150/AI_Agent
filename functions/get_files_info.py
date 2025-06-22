@@ -70,3 +70,4 @@ def get_files_info(working_directory, directory=None):
     final_output_string = "\n".join(output_lines)
 
     return final_output_string
+
