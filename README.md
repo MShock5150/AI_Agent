@@ -4,7 +4,12 @@ This repository contains an AI Agent designed to interact with a codebase using 
 
 # Intended Use
 
-The primary purpose of this AI Agent is to demonstrate and explore agentic behavior in a programming context. It is capable of:Code Analysis: Reading and understanding the content of various files within the project.Debugging: Identifying and autonomously fixing bugs by modifying code files.Code Execution: Running Python scripts and capturing their output.File Management: Listing files and directories, and creating or updating files.Automated Workflow: Iterating through a series of actions (tool calls) to achieve complex goals, such as finding information or resolving issues within the codebase.This project serves as a foundation for building more sophisticated AI-driven development tools and illustrates the power of combining LLM reasoning with external function execution.
+The primary purpose of this AI Agent is to demonstrate and explore agentic behavior in a programming context. It is capable of:
+* Code Analysis: Reading and understanding the content of various files within the project.
+* Debugging: Identifying and autonomously fixing bugs by modifying code files.
+* Code Execution: Running Python scripts and capturing their output.
+* File Management: Listing files and directories, and creating or updating files.
+* Automated Workflow: Iterating through a series of actions (tool calls) to achieve complex goals, such as finding information or resolving issues within the codebase.This project serves as a foundation for building more sophisticated AI-driven development tools and illustrates the power of combining LLM reasoning with external function execution.
 
 # Credits
 
